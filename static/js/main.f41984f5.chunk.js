@@ -1,2 +1,0 @@
-(this["webpackJsonpcard-feature-section"]=this["webpackJsonpcard-feature-section"]||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);var n=c(0),r=c.n(n),s=c(3),o=c(1),i=function(){return Object(o.jsx)("p",{children:"Hello Zaks"})};Object(s.render)(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.f41984f5.chunk.js.map
