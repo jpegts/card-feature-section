@@ -1,2 +1,0 @@
-(this["webpackJsonpcard-feature-section"]=this["webpackJsonpcard-feature-section"]||[]).push([[0],{9:function(e,t,n){"use strict";n.r(t);var c=n(0),r=n.n(c),o=n(3),s=n(1),i=function(){return Object(s.jsx)("p",{children:"Front End Mentor Challenge."})};Object(o.render)(Object(s.jsx)(r.a.StrictMode,{children:Object(s.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.4e724afa.chunk.js.map
