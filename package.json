@@ -22,7 +22,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --coverage --watchAll",
     "eject": "react-scripts eject",
     "predeploy": "yarn test & yarn build",
     "deploy": "gh-pages -d build"
@@ -43,6 +43,27 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
+    ]
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "<rootDir>/src/**/*.ts",
+      "<rootDir>/src/**/*.tsx",
+      "!<rootDir>/src/components/index.ts",
+      "!<rootDir>/src/react-app-env.d.ts",
+      "!<rootDir>/src/interfaces/*.ts"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 90,
+        "functions": 90,
+        "lines": 90,
+        "statements": 90
+      }
+    },
+    "coverageReporters": [
+      "html",
+      "text"
     ]
   },
   "devDependencies": {

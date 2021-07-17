@@ -6,6 +6,6 @@ describe("<App />", () => {
   it("renders <App /> correctly", () => {
     const { getByText } = render(<App />);
 
-    expect(getByText("Front End Mentor Challenge.")).toBeTruthy();
+    expect(getByText("Reliable, efficient delivery")).toBeTruthy();
   });
 });
