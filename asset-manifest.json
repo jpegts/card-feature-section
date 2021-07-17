@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/card-feature-section/static/js/main.f41984f5.chunk.js",
+    "main.js.map": "/card-feature-section/static/js/main.f41984f5.chunk.js.map",
+    "runtime-main.js": "/card-feature-section/static/js/runtime-main.63d62c9b.js",
+    "runtime-main.js.map": "/card-feature-section/static/js/runtime-main.63d62c9b.js.map",
+    "static/js/2.f9460639.chunk.js": "/card-feature-section/static/js/2.f9460639.chunk.js",
+    "static/js/2.f9460639.chunk.js.map": "/card-feature-section/static/js/2.f9460639.chunk.js.map",
+    "index.html": "/card-feature-section/index.html",
+    "static/js/2.f9460639.chunk.js.LICENSE.txt": "/card-feature-section/static/js/2.f9460639.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63d62c9b.js",
+    "static/js/2.f9460639.chunk.js",
+    "static/js/main.f41984f5.chunk.js"
+  ]
+}
